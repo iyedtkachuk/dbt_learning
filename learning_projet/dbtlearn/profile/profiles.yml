@@ -3,11 +3,11 @@ dbtlearn:
   outputs:
     dev:
       type: snowflake
-      account: ysijldo-cl63614
-      user: "dbt"
-      password: "dbtPassword123"
-      database: "AIRBNB"
-      warehouse: "COMPUTE_WH"
-      schema: "RAW"
-      role: "transform"
+      account: *****
+      user: "****"
+      password: "******"
+      database: "*****"
+      warehouse: "*****"
+      schema: "****"
+      role: "******"
 
