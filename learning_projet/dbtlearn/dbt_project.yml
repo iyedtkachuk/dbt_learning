@@ -38,3 +38,6 @@ models:
     #folder dim should be materialized as a table
     dim:
       +materialized: table
+    src:
+      +materialized: ephemeral
+      
